@@ -1,0 +1,34 @@
+{
+  "objectives": [
+    {
+      "objectiveId": 1,
+      "objective": "Faster Time To Value",
+      "acronym": "TTV",
+      "description": "Enables true business flexibility on an organizational level.",
+      "targetValue": "80%",
+      "underlyingMetrics": [
+        {
+          "metricName": "Lead Time",
+          "descriptionLink": "https://secreurl"
+        },
+        {
+          "metricName": "Flow Time",
+          "descriptionLink": "https://secreurl"
+        }
+      ]
+    },
+    {
+      "objectiveId": 2,
+      "objective": "Higher User Satisfaction",
+      "acronym": "HUS",
+      "description": "Signifies whether a product is successful in achieving its business goals or not.",
+      "targetValue": "66%",
+      "underlyingMetrics": [
+        {
+          "metricName": "NPS",
+          "descriptionLink": "https://secreurl"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: config.properties.parsing
+---
+testFramework: kotlintest
+sourceLanguage: kotlin

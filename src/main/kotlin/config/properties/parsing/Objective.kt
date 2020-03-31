@@ -2,7 +2,7 @@ package config.properties.parsing
 
 
 data class Objective(
-    val objectiveId: String,
+    val objectiveId: Int,
     val objective: String,
     val acronym: String?,
     val description: String,
